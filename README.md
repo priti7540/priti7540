@@ -1,5 +1,5 @@
--  # 👋 Hi, I'm Susree Pritiplabani Sahoo - Aspiring Data Analyst 
-- ##  📊About_Me
+ # 👋 Hi, I'm Susree Pritiplabani Sahoo - Aspiring Data Analyst 
+ ##  📊About_Me
 - Passionate about analyzing data and creating impactful dashboards
 - Actively learning Power BI, SQL and Excel
 - Practicing real-world projects to strengthen analytical skills
