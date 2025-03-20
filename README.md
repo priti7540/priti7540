@@ -1,5 +1,5 @@
  # 👋 Hi, I'm Susree Pritiplabani Sahoo - Aspiring Data Analyst 
- ##  📊About_Me
+ ## 📊About_Me
 - Passionate about analyzing data and creating impactful dashboards
 - Actively learning Power BI, SQL and Excel
 - Practicing real-world projects to strengthen analytical skills
@@ -16,7 +16,7 @@
 - Patients Emergency Room Visit Analysis Dashboard <a href="https://github.com/priti7540/Patients-Emergency-Room-Visit-Analysis-Dashboard/blob/main/Hospital%20Dashboard.png">View Dashboard</a>
 - Blinkit Sale Performance Dashboard <a href="https://github.com/priti7540/Blinkit-Sale-Performance-Dashboard/blob/main/Blinkit%20Dashboard.png">View Dashboard</a>
 
-##  📫Connect With Me
+## 📫Connect With Me
 - 🔗 https://www.linkedin.com/in/pritiplabanisahoo
 - 📧 pritiplabani@gmail.com
 
