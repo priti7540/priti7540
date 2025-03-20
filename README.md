@@ -17,7 +17,7 @@
 - Blinkit Sale Performance Dashboard <a href="https://github.com/priti7540/Blinkit-Sale-Performance-Dashboard/blob/main/Blinkit%20Dashboard.png">View Dashboard</a>
 
 ##  📫Connect With Me
-- 🔗 in/pritiplabanisahoo
+- 🔗 https://www.linkedin.com/in/pritiplabanisahoo
 - 📧 pritiplabani@gmail.com
 
 Thank you for visiting my profile!
