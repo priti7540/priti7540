@@ -1,10 +1,10 @@
  # 👋 Hi there, I'm Susree Pritiplabani Sahoo
  Welcome to my GitHub profile! I'm passionate about transforming raw data into meaningful insights that drive decision-making and business growth. With hands-on experience in data analysis, visualization, and reporting, I specialize in creating interactive dashboards, automating data workflows, and uncovering trends that matter.
  ## 📊About_Me
-- Passionate about analyzing data and creating impactful dashboards
-- Actively learning Power BI, SQL and Excel
-- Practicing real-world projects to strengthen analytical skills
-- Seeking entry-level Data Analyst / Business Intelligence roles
+- Passionate about analyzing data and creating impactful dashboards.
+- Actively learning **Power BI**, **SQL** and **Excel**.
+- Practicing real-world projects to strengthen analytical skills.
+- Seeking entry-level Data Analyst or Business Intelligence roles.
 ## 🛠Skills
 - **Power BI**
 - **Data Visualization & Dashboards**
