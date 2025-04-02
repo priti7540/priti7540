@@ -9,6 +9,15 @@
 - **Power BI**
 - **Data Visualization & Dashboards**
 - **SQL**
+
+## 📜 Cretifications
+- **Power BI for Beginners**
+![Certificate 1](https://github.com/user-attachments/assets/185101b5-1a10-4f97-a229-b580bf7ca1bd)
+
+- **Power BI Data Modeling Basics Tutorial Course**
+![Certificate 2](https://github.com/user-attachments/assets/91350ecf-6674-4fb2-b42c-a073e00bac7c)
+
+
 ## 🚀Projects
 - Bank Customer Churn Analysis Dashboard - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Customer%20Churn%20Analysis.png">View Dashboard</a>
 - Mobile Sales Dashboard - <a href="https://github.com/priti7540/Mobile-Sales-Dashboard/blob/main/Mob%20sales%20dashboard.png">View Dashboard</a>
