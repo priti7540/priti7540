@@ -9,7 +9,7 @@
 - **Power BI**
 - **Data Visualization & Dashboards**
 - **SQL**
-## 📜 Cretifications
+## 📜 Certifications
 - **Power BI for Beginners**:
 ![Certificate 1](https://github.com/user-attachments/assets/185101b5-1a10-4f97-a229-b580bf7ca1bd)
 
