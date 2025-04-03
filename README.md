@@ -15,7 +15,7 @@
 - **Data Visualization & Dashboards**
 - **SQL**
 ## 📜Certifications
-<p align="center"> <img src="![Certificate 1](https://github.com/user-attachments/assets/185101b5-1a10-4f97-a229-b580bf7ca1bd)" alt="Certificate 1" width="45%"/><img src="![Certificate 2](https://github.com/user-attachments/assets/91350ecf-6674-4fb2-b42c-a073e00bac7c)" alt="Certificate 2" width="45%/></p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/185101b5-1a10-4f97-a229-b580bf7ca1bd" alt="Certificate 1" width="45%"/><img src="https://github.com/user-attachments/assets/91350ecf-6674-4fb2-b42c-a073e00bac7c" alt="Certificate 2" width="45%/></p>
                                                                                                                                                                   
 ## 📫Let's Connect 
 - 💼 <a href="https://www.linkedin.com/in/pritiplabanisahoo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
