@@ -6,6 +6,7 @@
 - Practicing real-world projects to strengthen analytical skills.
 - Seeking entry-level Data Analyst or Business Intelligence roles.
 ## 🚀Projects
+- Uber Trip Analysis Dashboard - <a href="https://github.com/priti7540/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20Analysis%20Oveerview%20Dashboard.png">View Dashboard</a>
 - Bank Customer Churn Analysis Dashboard - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Customer%20Churn%20Analysis.png">View Dashboard</a>
 - Mobile Sales Dashboard - <a href="https://github.com/priti7540/Mobile-Sales-Dashboard/blob/main/Mob%20sales%20dashboard.png">View Dashboard</a>
 - Patients Emergency Room Visit Analysis Dashboard - <a href="https://github.com/priti7540/Patients-Emergency-Room-Visit-Analysis-Dashboard/blob/main/Hospital%20Dashboard.png">View Dashboard</a>
