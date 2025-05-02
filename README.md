@@ -7,6 +7,7 @@
 - Seeking entry-level Data Analyst or Business Intelligence roles.
 ## 🚀Projects
 - Uber Trip Analysis Dashboard - <a href="https://github.com/priti7540/Uber-Trip-Analysis-Dashboard">View Dashboard</a>
+- Insurance Claims and Policy Analysis Dashboard - <a href="https://github.com/priti7540/Insurance-Claims-and-Policy-Analysis-Dashboard">View Dashboard</a>
 - Mobile Sales Dashboard - <a href="https://github.com/priti7540/Mobile-Sales-Dashboard">View Dashboard</a>
 - Patients Emergency Room Visit Analysis Dashboard - <a href="https://github.com/priti7540/Patients-Emergency-Room-Visit-Analysis-Dashboard">View Dashboard</a>
 - Blinkit Sale Performance Dashboard - <a href="https://github.com/priti7540/Blinkit-Sale-Performance-Dashboard">View Dashboard</a>
