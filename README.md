@@ -23,7 +23,7 @@
 - 💼 <a href="https://www.linkedin.com/in/pritiplabanisahoo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
 - 📧 **Email**: pritiplabani@gmail.com                                                                                                                                                
                                                                                                                                                 
-**Thank you for visiting my profile!**
+**Thank you for visiting my profile!**😊
 
 
 
