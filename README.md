@@ -2,7 +2,7 @@
  Welcome to my GitHub profile! I'm passionate about transforming raw data into meaningful insights that drive decision-making and business growth. With hands-on experience in data analysis, visualization, and reporting, I specialize in creating interactive dashboards, automating data workflows, and uncovering trends that matter.
  ## 📊About_Me
 - Passionate about analyzing data and creating impactful dashboards.
-- Actively learning **Power BI**, **SQL Server** and **Excel**.
+- Actively learning **Power BI**, **SQL Server**, **Python** and **Excel**.
 - Practicing real-world projects to strengthen analytical skills.
 - Seeking entry-level Data Analyst or Business Intelligence roles.
 ## 🚀Projects
@@ -16,6 +16,8 @@
 - **Power BI**
 - **Data Visualization & Dashboards**
 - **SQL Server**
+- **Python
+
 ## 📜Certifications
 <p align="center"> <img src="https://github.com/user-attachments/assets/185101b5-1a10-4f97-a229-b580bf7ca1bd" alt="Certificate 1" width="45%"/>  <img src="https://github.com/user-attachments/assets/91350ecf-6674-4fb2-b42c-a073e00bac7c" alt="Certificate 2" width="45%" /> </p>      
                                                                                                                                                 
